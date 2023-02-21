@@ -1,0 +1,15 @@
+{
+    "name": "@sansmischevia/wf-react-image-gallery",
+    "version": "1.0.0",
+    "license": "MIT",
+    "type": "module",
+    "scripts": {
+
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    }
+  }
